@@ -1,1 +1,1 @@
-# chez
+# Chez - O Jogo de Xadrez
